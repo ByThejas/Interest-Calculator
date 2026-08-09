@@ -14,9 +14,6 @@ public static void main(String[] args){
     else{
         System.out.println("Error");
     }
-//    System.out.print("Do you want to calculate again-\n1.Yes\n2.No\n");
-//    System.out.print("Choose the option 1 or option 2: \n");
-//    int repatProcess = scanner.nextInt();
 
 }
 public static void SimpleInt(){
